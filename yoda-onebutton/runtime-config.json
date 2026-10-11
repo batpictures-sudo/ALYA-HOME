@@ -1,9 +1,10 @@
 {
-  "version": 2,
+  "version": 3,
   "status": "building",
   "backend_https": "",
   "backend_wss": "",
   "chunk_ms": 250,
   "pitch_shift": 0,
-  "gate_location": "client-local"
+  "gate_location": "client-local",
+  "visitor_lang": "hu-HU"
 }
